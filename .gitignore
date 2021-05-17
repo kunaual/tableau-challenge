@@ -1,3 +1,6 @@
+#csvs probably too big for git
+Resources/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
