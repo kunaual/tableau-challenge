@@ -1,5 +1,6 @@
 #csvs probably too big for git
 Resources/
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
