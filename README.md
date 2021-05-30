@@ -32,6 +32,7 @@ The top 10 stations in 2018 and 2019 before covid overlap with 9 out of 10 of th
 ### Repository Contents
 This repo contains a jupyter notebook used to combine 4 months of data into a single dataset.  4 csvs of data were loaded into dataframes, the unneeded columns were dropped, a year column was added and then the 4 were combined into a single dataframe which was dropped into a new csv to load into Tableau.
 The jupyter notebook also has a google API to search out hospitals around the Jersey City zipcode.   This was intended to be used in Tableau mapping because the app's "point of interest" map layer did not contain all hospitals, however Tableau does not allow use of a un-joined dataset in the same workbook.
+The repository also contains the Tableau-citibike-challenge.twbx workbook file.
 
 
 
